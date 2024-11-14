@@ -16,13 +16,6 @@ I’m a passionate **Software Tester** with 3 years of experience in **manual an
 ### 🌱 **Always Learning**:
 I am continuously seeking to enhance my skills and stay updated with the latest trends in software testing.
 
-### 📫 **Connect with Me**:
-I’m always open to collaboration and discussions! Feel free to reach out:
-- [LinkedIn]www.linkedin.com/in/
-priya-venkateshwari
-
-💡 **Fun Fact**: I enjoy solving complex testing challenges and contributing to open-source testing projects!
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyasmdgl&label=Profile%20views&color=0e75b6&style=flat" alt="priyasmdgl" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyasmdgl" alt="priyasmdgl" /></a> </p>
