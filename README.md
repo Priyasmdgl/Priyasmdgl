@@ -7,7 +7,7 @@ Key Skills:
 
  Testing Methodologies: Manual Testing, Automation Testing, API Testing
  
- Automation Tools: Selenium with Java, Katalon Studio, JMeter
+ Automation Tools: Selenium with Java, Playwright with Javascript, Katalon Studio, JMeter
  
  Testing Frameworks: TestNG, Cucumber BDD, Page Object Model
  
