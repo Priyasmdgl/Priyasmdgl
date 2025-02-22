@@ -14,6 +14,8 @@ Key Skills:
  Testing Approaches: Data Driven Testing, Keyword Driven Testing, Behavior Driven Testing
  
  API Testing Tools: Postman, Rest Assured
+
+ Database: SQL, MySQL, PostgreSQL
  
  Version Control: Git, GitHub
  
