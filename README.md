@@ -15,7 +15,7 @@ Key Skills:
  
  API Testing Tools: Postman, Rest Assured
 
- Database: SQL, MySQL, PostgreSQL
+ Database: SQL, MySQL, PostgreSQL, MongoDB
  
  Version Control: Git, GitHub
  
