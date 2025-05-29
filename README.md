@@ -15,11 +15,13 @@ Key Skills:
  
  API Testing Tools: Postman, Rest Assured
 
- Database: SQL, MySQL, PostgreSQL, MongoDB
+ Database: SQL, MySQL, PostgreSQL
  
  Version Control: Git, GitHub
  
  Project Management: JIRA, Maven
+ 
+ Backend: Nodejs
  
  Soft Skills: Communication, Team Collaboration, Adaptability, Time Management, Curiosity and Continuous Learning
  
